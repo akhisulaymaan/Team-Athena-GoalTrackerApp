@@ -1,6 +1,8 @@
 # Team-Athena-GoalTrackerApp
 
 
+FOR LANDING PAGE
+
 * nav- Rufina 24 bold fb0000 (sign up fill- 21550f 55% opacity, sign in outline- 21550f)
 * athena logo- 21550f bold 36 Rufina & 850734
 * Achieve yoir goals with athena- #000 64 bold Rufina
@@ -27,3 +29,16 @@ grass- 142f0b
 * About, Terms, How it works, help centre, etc- Rufina bold 24 #fff
 
 * Footer- Rufina regular 24 #fff 85% opacity
+
+
+
+FOR SIGN IN AND SIGN UP PAGES
+
+* background color- 2f5920 60% opacity, with drop shadow- (blur-25, x axis- 6, y axis- 10, #810b35 50% opacity)
+* sign in link- 21550f, underline- intensity (3), 142f0b 98% opacity
+* Welcome back- #000 Rufina bold 48
+* your email...- #fff 20 regular Rufina  (same as password)
+* Login- bold 20 Rufina #fff, fill color- 3acc6c 68% opacity
+* eclipse round brands- 3acc6c, intensity (3), brand icons- 810b35
+* remember me, forgot password, etc- regular 18 Rufina fb0000
+* background shapes- 3acc6c, 651010, 193310.
