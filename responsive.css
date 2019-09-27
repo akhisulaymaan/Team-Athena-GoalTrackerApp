@@ -1,0 +1,63 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("undraw_to_do_xvvc.png");
+    background-repeat: no-repeat;
+    background-position: 100px;
+    font-family: verdana;
+    overflow: hidden;
+    background-position-y: -210px;
+    background-clip: content-box;
+    padding: 20px;
+  
+  
+}
+
+#images {
+    display: none;
+ 
+ }
+ input[type=password], input[type=email] {
+    width: 260%;
+    
+    border-radius: 7px;
+    /* height: 8vh; */
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+    
+}
+
+#checkit {
+    font-size: 15px;
+}
+
+.password-forgot {
+    position: absolute;
+    /* padding-left: 18.8%;
+    font-size: 19px; */
+
+    left: 150px;
+    top: 60%;
+  
+}
+.password-forgot:hover {
+    color: red;
+}
+
+button {
+    width: 260%;
+}
+button:hover {
+    color: red;
+}
+
+input:focus {
+    
+    color: #71CEAC;
+}
+
+input[type=checkbox]:focus {
+    color: #71CEAC; 
+}
