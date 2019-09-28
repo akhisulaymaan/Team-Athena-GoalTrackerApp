@@ -1,0 +1,144 @@
+header{
+    width: auto;
+    height: auto;
+}
+header .logo{
+    background-image: url("img/athena/group_7.1.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 80px;
+    text-indent: -99999999px;
+    width: 300px;
+    position: relative;
+    top: -10px;
+}
+
+.btn1, .btn2 ,.btn3{
+    border-radius: 100px;
+    border-style: solid;
+    padding: 5px 10px;
+    margin: 20px;
+    float: right;
+}
+.btn1, .btn3{
+    color: #71ceac;
+    background-color: white;
+}
+.btn2{
+    color: white;
+    background-color: #71ceac
+}
+.imatext, .believe{
+    display: inline-block;
+    margin: 50px;
+    padding: 20px;
+}
+
+.hng1{
+    margin: 100 0 0 0px;
+}
+
+.image{
+    background-color: #71ceac;
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+
+.text{
+    width: 300px;
+    height: 100px;
+    margin-left: 700px;
+}
+
+.image2{
+    background-color: #71ceac;
+    width: 400px;
+    height: 300px;
+    float: right;
+}
+.live{
+    width: 300px;
+    height: 100px;
+    margin-right: 700px;
+}
+.play{
+    width: 50%;
+    margin: 0 20px 0 50px;
+    font: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+}
+.keep{
+    width: 25%;
+    height: 25%;
+    margin: 0;
+    font: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.head{
+    position: absolute;
+    right: 200px;
+    top: 90px;
+   width: 300px;
+}
+     
+.wars-container{
+    background-color: #71ceac;
+    width: 100%;
+    display: inline-block;
+    margin: 1%;
+    padding: 1%;   
+}
+
+.war{
+    text-align: center;
+    background-color: white;
+    float: left;
+    width: 29%;
+    margin: 1%;
+    padding: 1%;
+    
+}
+
+.war p, marquee {
+    color: black;
+}
+
+.war figure{
+    margin: auto;
+    width: 200px
+}
+.war figure img{
+border-radius: 50%;
+
+}
+
+footer{
+        height: 250;
+        background-color: white;
+        top: 200
+    }
+
+.hng{
+    margin: 0 0 0 500px;
+}
+h3{
+    color: #71ceac
+}
+    
+    .kick-ins-container {
+        width: auto;
+        display: flex;
+    }
+    
+    .kick-in{
+        padding: 20px;
+        margin-right: 20px;
+        flex: 1;
+        padding: 20px;
+    }
+    
+ 
